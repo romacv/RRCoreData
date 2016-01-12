@@ -1,11 +1,3 @@
-//
-//  RRCoreData
-//
-//  Created by Resenchuk Roman
-//  Copyright (c) 2015 Resenchuk Roman (romanres@romanres.ru)
-//  All rights reserved.
-//
-
 #import <Foundation/Foundation.h>
 @import CoreData;
 
