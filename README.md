@@ -1,2 +1,2 @@
 # RRCoreData
-Simplest way to work with CoreData
+Helpers for simply work with CoreData
